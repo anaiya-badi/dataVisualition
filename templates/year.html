@@ -1,0 +1,22 @@
+
+<html>
+<head>
+  <title>{{requested_year}} - Life Expectancy Lab</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Anta">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <h1>Life Expectancy Lab: {{requested_year}} - Anaiya Badi</h1>
+
+  <div id="north_america">
+    {% include 'north_america.svg' %}
+  </div>
+
+  {% include 'summary.html' %}
+
+  <footer>
+    All data from <a href="https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=MX-US-CA"> The World Bank</a>.
+  </footer>
+</body>
+</html>

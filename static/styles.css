@@ -1,0 +1,41 @@
+body{
+  background-color: #75a3a2;
+  font-family: "Anta";
+}
+
+p{
+  font-size: 25
+}
+
+svg{
+  border-style: solid;
+  border-width: 0px;
+}
+
+.axis_label {
+  font-size: 25;
+}
+
+.legend_labels {
+  font-size: 25;
+}
+
+.title {
+  font-size: 30;
+}
+
+.canada_data:hover {
+  stroke-width: 4;
+}
+
+.us_data:hover {
+  stroke-width: 4;
+}
+
+.mexico_data:hover {
+  stroke-width: 4;
+}
+
+.universal_data {
+  stroke-dasharray: 1%;
+}

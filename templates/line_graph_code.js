@@ -1,0 +1,1 @@
+document.getElementById("grid_lines").setAttribute("y1", 1000)
