@@ -2442,8 +2442,7 @@ Unknown Group,2009,18,2,0,0,2,Iraq,Mosul,Bab Sinjar Neighborhood,36.33,43.11,Ira
 Unknown Group,2009,11,2,2,0,0,Iraq,Mosul,Dawassa district,36.33,43.11,Patrol of foreign private security contractors,Security
 Unknown Group,2009,2.5,2,1,0,1,Iraq,Mosul,Al-Nabi-Younis neighborhood Eastern Mosul,36.33,43.11,Iraqi Police patrol,Security
 Unknown Group,2009,2.5,2.5,1.5,0,1,Iraq,Mosul,Zanjili neighborhood,36.33,43.11,Iraqi Army checkpoint,Security
-Unknown Group,2009,2,2.5,0,2.5,0,Iraq,Mosul,Haj Ali village Home of,36.33,43.11,"Hassan Zaidan al-Lihaibi Sahwa/Awakening Council leader
-Hassan Zaidan al-Luhaibi",Security
+Unknown Group,2009,2,2.5,0,2.5,0,Iraq,Mosul,Haj Ali village Home of,36.33,43.11,"Hassan Zaidan al-Lihaibi Sahwa/Awakening Council leader",Security
 Unknown Group,2009,3.5,2.5,0,0,2.5,Iraq,Mosul,Hadbaa neighborhood Northern Mosul,36.33,43.11,Joint US and Iraqi Army patrol,Security
 Unknown Group,2009,26,7.5,3.5,0,4,Iraq,Mosul,Al-Mahatta neighborhood Southwestern Mosul,36.33,43.11,Iraqi Police station,Security
 Islamic State of Iraq,2009,45,12.5,0,0,11,Iraq,Mosul,Southern Mosul,36.33,43.11,Iraqi National Police Headquarters,Security
@@ -3280,12 +3279,9 @@ Boko Haram,2012,43.5,3.5,3,0,0,Nigeria,Jos,Church Entrance of Church,9.91667,8.9
 Boko Haram,2012,40.5,5,5,0,0,Nigeria,Jos,Church Church Entrance,9.91667,8.9,Christ Chosen Church in God,Civilian
 Boko Haram,2012,50.5,10.5,10.5,0,0,Nigeria,Jos,Church Christ Chosen Church,9.91667,8.9,Nigerian Christian civilians,Civilian
 Boko Haram,2012,0,13,13,0,0,Nigeria,Jos,Church Rayfield Area,9.91667,8.9,St. Finbarr's Catholic Church,Civilian
-Unknown Group,2012,47,2.5,2.5,0,0,Nigeria,"Bauchi
-Bauchi",Church Opposite Abubakar Tafawa Balewa Stadium,10.31344,9.84327,St. John's Catholic Church,Civilian
-Boko Haram,2012,27,10.5,10.5,0,0,Nigeria,"Bauchi
-Bauchi",Church Harvest Field Church,10.31344,9.84327,Worshipers Coming out of Church,Civilian
-Boko Haram,2012,50.5,18,18,0,0,Nigeria,"Bauchi
-Bauchi",Church Yelwa Neighborhood,10.31344,9.84327,Living Faith and Good Harvest Church,Civilian
+Unknown Group,2012,47,2.5,2.5,0,0,Nigeria,Bauchi,Church Opposite Abubakar Tafawa Balewa Stadium,10.31344,9.84327,St. John's Catholic Church,Civilian
+Boko Haram,2012,27,10.5,10.5,0,0,Nigeria,Bauchi,Church Harvest Field Church,10.31344,9.84327,Worshipers Coming out of Church,Civilian
+Boko Haram,2012,50.5,18,18,0,0,Nigeria,Bauchi,Church Yelwa Neighborhood,10.31344,9.84327,Living Faith and Good Harvest Church,Civilian
 Boko Haram,2012,0,3.5,0,0,3.5,Nigeria,Kaduna,Security gate,10.523,7.44,1st Divisional Headquarters of the Nigerian Army,Security
 Boko Haram,2012,35,26,26,0,0,Nigeria,Kaduna,Near a restaurant,10.523,7.44,Nigerian Police patrol,Security
 Boko Haram,2012,30,11,11,0,0,Nigeria,Kaduna,Inside Jaji military cantonment housing Armed Forces Command and Staff College,10.523,7.44,St. Andrew Military Protestant Church,Security
@@ -3402,12 +3398,9 @@ Al-Qaeda in the Arabian Peninsula,2012,0,0,0,0,0,Yemen,Aden,Buriga district in A
 Al-Qaeda in the Arabian Peninsula,2012,0,3,0,0,3,Yemen,Aden,Mansura Neighborhood,12.8,45.033333,Yemeni Army Maj. General Salim Ali Qatn,Security
 Al-Qaeda in the Arabian Peninsula,2012,14,19.5,0,0,19.5,Yemen,Aden,Tawahi coastal neighbourhood,12.8,45.033333,Military Intelligence Compound,Security
 Al-Qaeda in the Arabian Peninsula,2012,0,0,0,0,0,Yemen,Aden,Mansoura District,12.8,45.033333,Military Intelligence Agency,Security
-Ansar al-Sharia (Yemen),2012,5,2,0,0,2,Yemen,"Zinjibar
-Zinjibar",Southern entrance of Zinjibar,13.128333,45.380278,Yemeni Army artillery position,Security
-Al-Qaeda in the Arabian Peninsula,2012,4,3.5,0,0,3.5,Yemen,"Zinjibar
-Zinjibar",Zinjibar municipal builidng,13.128333,45.380278,Pro-government Popular Resistance Committees militia,Security
-Ansar al-Sharia (Yemen),2012,5,4,0,0,4,Yemen,"Zinjibar
-Zinjibar",western entrance to the city,13.128333,45.380278,Yemeni Army checkpoint,Security
+Ansar al-Sharia (Yemen),2012,5,2,0,0,2,Yemen,"Zinjibar",Southern entrance of Zinjibar,13.128333,45.380278,Yemeni Army artillery position,Security
+Al-Qaeda in the Arabian Peninsula,2012,4,3.5,0,0,3.5,Yemen,"Zinjibar",Zinjibar municipal builidng,13.128333,45.380278,Pro-government Popular Resistance Committees militia,Security
+Ansar al-Sharia (Yemen),2012,5,4,0,0,4,Yemen,"Zinjibar",western entrance to the city,13.128333,45.380278,Yemeni Army checkpoint,Security
 Al-Qaeda in the Arabian Peninsula,2012,6,0,0,0,0,Yemen,Jaar,Checkpoint,13.223056,45.305556,Abdullateef al-Sayed the leader of anti-al-Qaida militiamen,Security
 Al-Qaeda in the Arabian Peninsula,2012,40,45,45,0,0,Yemen,Jaar,Funeral for relative of Anti-AQ Militia Leader,13.223056,45.305556,Servicemen of Anti-AQ Militia,Security
 Al-Qaeda in the Arabian Peninsula,2012,29,14.5,0,0,14.5,Yemen,Shuqrah,inside army base in southern Yemen,13.355833,45.699722,Base of the Yemeni Army 115th Brigade in Abyan,Security
@@ -3810,8 +3803,7 @@ Unknown Group,2013,16,11,8.5,0,2.5,Pakistan,Peshawar,200 meters from the US cons
 Unknown Group,2013,0,0,0,0,0,Pakistan,Mardan,Mardan College Chowk,34.2,72.05,Khyber Pakhtunkhwa Chief Minister Ameer Haider Khan Hoti,Political
 Unknown Group,2013,5,1,0,0,1,Pakistan,Mardan,Bazaar,34.2,72.05,Pakistani Police patrol,Security
 Unknown Group,2013,7,2,0,0,2,Pakistan,Shawa,Military Checkpoint near Shawa main gate of base,34.233333,72.35,Pakistani Frontier Corps (FC) checkpoint,Security
-Unknown Group,2013,54.5,32,31,1,0,Pakistan,"Sher Garh
-Sher Garh",Shah Zaman Qala village,34.390267,71.897007,PTI provincial lawmaker Imran Mohmand attending funeral,Political
+Unknown Group,2013,54.5,32,31,1,0,Pakistan,Sher Garh,Shah Zaman Qala village,34.390267,71.897007,PTI provincial lawmaker Imran Mohmand attending funeral,Political
 Unknown Group,2013,4,4,3,0,1,Pakistan,Khar,Hospital Bajaur Agency,34.74,71.53,Hospital,Civilian
 Unknown Group,2013,18,2,0,0,2,Russia,Khuchni,Dagestani village,41.948307,47.946159,Russian Police Station,Security
 Unknown Group,2013,15,0.5,0.5,0,0,Russia,Makhachkala,Central square,42.975,47.502,Dagestani Police patrol,Security
@@ -3851,8 +3843,7 @@ Unknown Group,2013,8,5,0,0,5,Syria,Damascus,Al-Qaboon district,33.504089,36.3000
 Jabhat an-Nu_rah li-Ahl ash-Sh_m,2013,10,9,0,0,9,Syria,Damascus,Jobar Neighborhood,33.504089,36.300002,Syrian Police Station,Security
 Unknown Group,2013,31,14.5,0,0,14.5,Syria,Damascus,Marjeh Square,33.504089,36.300002,Syrian Police station,Security
 Jabhat an-Nu_rah li-Ahl ash-Sh_m,2013,10,4,0,0,4,Syria,Damascus,Rukn al-Din district,33.504089,36.300002,Syrian Security Compound,Security
-Unknown Group,2013,18,3.5,0,0,3.5,Syria,"Saboura
-Saboura",Near the cultural center,33.516667,36.133333,Syrian Arab Army (SAA) soldiers,Security
+Unknown Group,2013,18,3.5,0,0,3.5,Syria,Saboura,Near the cultural center,33.516667,36.133333,Syrian Arab Army (SAA) soldiers,Security
 Jabhat an-Nu_rah li-Ahl ash-Sh_m,2013,0,8,0,0,8,Syria,Ma'loula,army checkpoint guarding entrance to city,33.844167,36.546667,Syrian Arab Army (SAA) checkpoint,Security
 Jabhat an-Nu_rah li-Ahl ash-Sh_m,2013,0,5,0,0,5,Syria,Nabek,Damascus-Homs Highway,34.016667,36.716667,Syrian Police checkpoint,Security
 Jabhat an-Nu_rah li-Ahl ash-Sh_m,2013,6,6,0,0,6,Syria,Nabek,outskirts of city,34.016667,36.716667,Security headquarters,Security
@@ -4161,9 +4152,7 @@ Unknown Group,2014,3.5,1,0,0,1,Iraq,Hit,Iraqi Police station,33.64,42.82,Iraqi P
 Unknown Group,2014,5,3.5,0,0,3.5,Iraq,Hit,al-Mohammadi area,33.64,42.82,Joint police and army checkpoint,Security
 Islamic State of Iraq and Syria,2014,4.5,4.5,0,0,4.5,Iraq,Hit,Al-Bakr Bridge over the Euphrates,33.64,42.82,Iraqi Army bridge checkpoint,Security
 Islamic State,2014,0,5.5,0,0,5.5,Iraq,Hit,The gated checkpoint to Police HQ,33.64,42.82,Iraqi Police headquarters,Security
-Islamic State,2014,0,18,18,0,0,Iraq,"Khamis Alkhadir
-Khamis Khodair
-Khamis Alkhadir",Mosque Sunni Mosque,33.65128,44.64595,Near entrance of Musab bin Omair Sunni Mosque,Civilian
+Islamic State,2014,0,18,18,0,0,Iraq,"Khamis Alkhadir",Mosque Sunni Mosque,33.65128,44.64595,Near entrance of Musab bin Omair Sunni Mosque,Civilian
 Unknown Group,2014,5,2.5,0,0,2.5,Iraq,Tarimiyah,Iraqi Army checkpoint within city,33.669843,44.367689,Iraqi Army checkpoint,Security
 Islamic State of Iraq and Syria,2014,4.5,6,1,0,5,Iraq,Tarimiyah,Al Mushahada,33.669843,44.367689,Iraqi Army Checkpoint,Security
 Unknown Group,2014,8.5,6,2.5,0,3.5,Iraq,Tarimiyah,Salman area of Tarimiyah,33.669843,44.367689,Iraqi Police Station,Security
@@ -4916,8 +4905,7 @@ Islamic State - Tripolitania Province,2015,10,10.5,10,0,0,Libya,Tripoli,Hotel Pa
 Al-Mourabitoun,2015,12.5,3,3,0,0,Mali,Ansongo,Rural commune,15.70784,0.585451,United Nations MINUSMA mission peacekeeping barracks,Security
 Unknown Group,2015,7,0,0,0,0,Mali,Tabankort,entrance of a MINUSMA camp,15.849,0.4178,UN Mali mission camp,Security
 Gatia Pro-Government Militia,2015,0,11.5,0,0,11.5,Mali,Tabankort,Separatist Militia Position,15.849,0.4178,Toureg rebels of the National Movement for the Liberation of Azawad (NMLA),Security
-Unknown Group,2015,5,1,0,0,1,Mali,Kidal,"Near a UN checkpoint about one kilometre from UN camp in Kidal
-a UN military camp in Kidal",18.438889,1.408333,Base for Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) peacekeeping forces,Security
+Unknown Group,2015,5,1,0,0,1,Mali,Kidal,Near a UN checkpoint about one kilometre from UN camp in Kidal a UN military camp in Kidal,18.438889,1.408333,Base for Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) peacekeeping forces,Security
 Islamic State West Africa Province,2015,0,1,0,0,1,Niger,Diffa,Diffa civil prison in Southern Niger,13.314722,12.617777,Diffa civil prison,Security
 Islamic State West Africa Province,2015,3,2,0,0,2,Niger,Diffa,10 km from the entrance to Diffa,13.314722,12.617777,Nigerian troops incercepting bombers,Security
 Islamic State West Africa Province,2015,4.5,2.5,2.5,0,0,Nigeria,Abuja,Bus Stop on city outskirts,9.0543337,7.3940348,Bus stop in Nyanya,Civilian
@@ -5728,10 +5716,8 @@ Islamic State Yemen,2016,48.5,52,0,0,52,Yemen,Aden,Al Solban military base,12.8,
 Islamic State Yemen,2016,63,62.5,0,0,62.5,Yemen,Aden,Mansoura District,12.8,45.033333,Yemeni military recruiting base,Security
 Al-Qaeda in the Arabian Peninsula,2016,9,9,0,0,8,Yemen,Aden,near Aden's international airport,12.8,45.033333,Yemeni Military Base near Aden,Security
 Unknown Group,2016,2.5,0,0,0,0,Yemen,Al Houta,Al-Hasini bridge,12.9983,44.8833,Yemeni military checkpoint,Security
-Unknown Group,2016,0,0,0,0,0,Yemen,"Zinjibar
-Zinjibar",Southwest of Zinjibar,13.128333,45.380278,Yemeni government forces,Security
-Unknown Group,2016,16,8,0,0,8,Yemen,"Zinjibar
-Zinjibar",Car rammed into the base,13.128333,45.380278,Yemeni Army Base,Security
+Unknown Group,2016,0,0,0,0,0,Yemen,"Zinjibar",Southwest of Zinjibar,13.128333,45.380278,Yemeni government forces,Security
+Unknown Group,2016,16,8,0,0,8,Yemen,"Zinjibar",Car rammed into the base,13.128333,45.380278,Yemeni Army Base,Security
 Unknown Group,2016,5.5,4,0,0,4,Yemen,Shuqrah,Outskirts of the City,13.355833,45.699722,Yemeni soldiers gathered on the outside of the city,Security
 Al-Qaeda in the Arabian Peninsula,2016,11,5.5,0,0,5.5,Yemen,Al Habilayn,At base gates and 50m away from base,13.528602,44.851427,Yemeni military base gates,Security
 Al-Qaeda in the Arabian Peninsula,2016,3,3.5,0,0,3.5,Yemen,Al Ayn,Intersection connecting Mudiyah and Loder,13.799,45.887,Yemeni soldiers,Security
@@ -6257,8 +6243,7 @@ Islamic State Yemen,2017,0,6,1,0,5,Yemen,Aden,Headquarters Yemeni criminal inves
 Islamic State Yemen,2017,0,6,6,0,0,Yemen,Aden,Criminal investigation unit at security headquarters in Aden,12.8,45.033333,Entrance to security headquarters,Security
 Islamic State Yemen,2017,7,9.5,2.5,0,7,Yemen,Aden,Abdul Aziz,12.8,45.033333,Yemeni police station/post,Security
 Ansar al-Sharia (Yemen),2017,3.5,4,1,0,1.5,Yemen,Al Houta,Gates outside local government headquarters,12.9983,44.8833,Local government officials,Political
-Al-Qaeda in the Arabian Peninsula,2017,5,8,0,0,8,Yemen,"Zinjibar
-Zinjibar",enterence of Najda military camp,13.128333,45.380278,Soldiers at camp,Security
+Al-Qaeda in the Arabian Peninsula,2017,5,8,0,0,8,Yemen,Zinjibar,enterence of Najda military camp,13.128333,45.380278,Soldiers at camp,Security
 Unknown Group,2017,2,4.5,0,0,4.5,Yemen,Shuqrah,Ramleh area between the cities of Zanzbar and Shuqrah,13.355833,45.699722,Special Security Forces commander in Abyan Province Abdul Rahman al-Shanini [survived],Security
 Al-Qaeda in the Arabian Peninsula,2017,7,3,0,0,3,Yemen,Jahin,Yemeni Military Base in Jahin,13.6,45.5,Yemeni Military soldiers,Security
 Al-Qaeda in the Arabian Peninsula,2017,20,6,0,0,6,Yemen,Al Wade'a,Security Checkpoint,13.75,46,Yemeni security checkpoint,Security
@@ -6356,9 +6341,7 @@ Unknown Group,2018,3,2,1,1,0,Afghanistan,Watapur District,On road to local cemet
 Islamic State - Khorasan Province,2018,1,2,1,1,0,Afghanistan,Watapur District,A funeral,34.99848,71.08198,Kunar Provincial Council member Shah Wali Himmat [Killed],Political
 Taliban (IEA),2018,3.5,3,0,0,3,Afghanistan,Charikar,Khalazai area,35,69.17,NATO forces convoy,Security
 Jamaatul Mujahideen Bangladesh,2018,0,0,0,0,0,Bangladesh,Chittagong,House in Sonapaha Village,22.34,91.81,The security forces who were raiding the attackers,Security
-"Jama'a Nusrat ul-Islam wa al-Mus
-
-limin'",2018,40,4,0,0,4,Burkina Faso,Ouagadougou,Military HQ,12.357222,-1.535278,Meeting of G5 group of anti-terrorist forces,Political
+"Jama'a Nusrat ul-Islam wa al-Muslimin'",2018,40,4,0,0,4,Burkina Faso,Ouagadougou,Military HQ,12.357222,-1.535278,Meeting of G5 group of anti-terrorist forces,Political
 Boko Haram (Shekau Faction),2018,10,4,4,0,0,Cameroon,Mora,Unknown,11.03,14.09,Locals Preparing for Local Prayer,Civilian
 Unknown Group,2018,2,0,0,0,0,Cameroon,Kolofata,Residential Home A home in Kolofata,11.162222,14.012778,Cameroonian Residential Area,Civilian
 Unknown Group,2018,29,0,0,0,0,Cameroon,Amchide,Market Amchide market,11.244722,14.143889,Amchide market,Civilian
@@ -6413,18 +6396,12 @@ Islamic State - Tripolitania Province,2018,17.5,2,0,0,2,Libya,Tripoli,Headquarte
 Islamic State - Tripolitania Province,2018,3,1,0,1,0,Libya,Tripoli,Ministry Libyan foreign ministry,32.9023,13.18583,Libyan foreign ministry,Political
 Islamic State - Tripolitania Province,2018,3,1,0,1,0,Libya,Tripoli,Near Libyan Foreign Ministry,32.9023,13.18583,Libyan foreign ministry,Political
 Islamic State - Tripolitania Province,2018,13,15.5,0,13,2.5,Libya,Tripoli,Central Agency Headquarters Electoral Commision Headquarters,32.9023,13.18583,Election Officials and Election Infrastructure,Political
-"Jama'a Nusrat ul-Islam wa al-Mus
-
-limin'",2018,0,2.5,0,0,2.5,Mali,Sevare,G5 anti-terror taskforce base,14.533333,-4.1,Security personnel at G5 taskforce base,Security
+Jama'a Nusrat ul-Islam wa al-Muslimin',2018,0,2.5,0,0,2.5,Mali,Sevare,G5 anti-terror taskforce base,14.533333,-4.1,Security personnel at G5 taskforce base,Security
 Al-Mourabitoun,2018,3,0,0,0,0,Mali,Menaka,Road between Menaka and Indelimane,15.9185,2.40297,French Military Convoy in Barkhane Operation,Security
-"Jama'a Nusrat ul-Islam wa al-Mus
-
-limin'",2018,22,2.5,2.5,0,0,Mali,Gao,UN residential complex in 8th Quarter,16.266667,0.05,UN Multidimensional Integrated Stabilization Mission Residential Area,Political
+Jama'a Nusrat ul-Islam wa al-Muslimin',2018,22,2.5,2.5,0,0,Mali,Gao,UN residential complex in 8th Quarter,16.266667,0.05,UN Multidimensional Integrated Stabilization Mission Residential Area,Political
 The Group for the Support of Islam and Muslims,2018,3,3,3,0,0,Mali,Gao,headquarters of foreign forces (British German Canadian),16.266667,0.05,Canadian soldiers and other UN forces in mine-clearing operation,Security
 Unknown Group,2018,9.5,1,0,0,1,Mali,Timbuktu,Timbuktu airport,16.77348,-3.00742,France's Barkhan Camp and UN Peacekeepers,Security
-"Jama'a Nusrat ul-Islam wa al-Mus
-
-limin'",2018,19.5,3,3,0,0,Mali,Bourem,Near the northern exit of the city,16.9555,-0.34861,French Barkhane Patrol,Security
+Jama'a Nusrat ul-Islam wa al-Muslimin',2018,19.5,3,3,0,0,Mali,Bourem,Near the northern exit of the city,16.9555,-0.34861,French Barkhane Patrol,Security
 Unknown Group,2018,0,0,0,0,0,Montenegro,Podgorica,Embassy United States Embassy in Podgorica,42.44111,19.26361,United States Embassy in Podgorica,Political
 Unknown Group,2018,12,3,3,0,0,Niger,Diffa,School Diffa Koura Neighborhood,13.314722,12.617777,Islamic school,Civilian
 Unknown Group,2018,12,3,3,0,0,Niger,Diffa,Residential Area Diffas Koura neighborhood,13.314722,12.617777,Civilian residents of Diffa City,Civilian
@@ -6630,9 +6607,7 @@ Al-Shabaab,2019,5,13,13,0,0,Kenya,Nairobi,Hotel Foyer of Dusit Hotel 14 Riversid
 Unknown Group,2019,0,0,0,0,0,Lebanon,Tripoli,Residential building near army checkpoint on al-Tawlid street,34.433,35.85,Lebanese military officers who cornered him,Security
 Islamic State - Fezzan Province,2019,0.5,2,0,0,1.5,Libya,Ghadduwah,Near Police Station,26.433333,14.3,Libyan Police Station,Security
 Islamic State in Greater Sahara,2019,5.5,0,0,0,0,Mali,Gao,Entrance to Minusma Military Camp (French side),16.266667,0.05,Minusma base and French Mali and Estonian Troops,Security
-"Jama'a Nusrat ul-Islam wa al-Mus
-
-limin'",2019,10,2,0,0,2,Mali,Tarkint,army base in Tarkint,16.6018,-0.274,soldiers at the army base,Security
+Jama'a Nusrat ul-Islam wa al-Muslimin',2019,10,2,0,0,2,Mali,Tarkint,army base in Tarkint,16.6018,-0.274,soldiers at the army base,Security
 Boko Haram (Shekau Faction),2019,0,4,4,0,0,Niger,Diffa,Between the refugee camp and the barracks of the National Genderarmerie,13.314722,12.617777,Niger Refugee camp,Civilian
 Islamic State West Africa Province,2019,0,9,0,0,9,Niger,Inates,Entrance to the Inates Military Camp,13.967,3.19,Nigerian military camp near Inates,Security
 Islamic State West Africa Province,2019,0,0.5,0,0,0.5,Niger,Inates,Nigerien Military Outpost,13.967,3.19,Nigerien Military Outpost,Security
