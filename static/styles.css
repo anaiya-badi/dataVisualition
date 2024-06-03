@@ -1,13 +1,18 @@
 body{
   background-color: #7d9191;
   font-family: "Anta";
+  margin: 20px;
 }
 
-p{
+p {
   font-size: 25
 }
 
-svg{
+li {
+  font-size: 20
+}
+
+svg {
   border-style: solid;
   border-width: 0px;
 }
@@ -24,18 +29,6 @@ svg{
   font-size: 30;
 }
 
-.canada_data:hover {
-  stroke-width: 4;
-}
-
-.us_data:hover {
-  stroke-width: 4;
-}
-
-.mexico_data:hover {
-  stroke-width: 4;
-}
-
-.universal_data {
-  stroke-dasharray: 1%;
+.navbar{
+  margin: -20px;
 }
