@@ -10,30 +10,50 @@
 </head>
 {% include 'nav_bar.html' %}
 <body>
-
+  <br>
   <h1>Welcome to My Website</h1> 
 
   <p>This is a data visualization project aiming to show common targets of suicide bombers in different countries.</p>
 
   <p>Suicide bombing is an attack carried out by someone who intends to kill other people along with themselves with a kind of bomb.</p>
 
+  <h2>Data pipeline</h2> 
 
-  <h3>Prototypes</h3> 
-  <img src="/static/macro_prototype.jpg" alt="macro prototype" width="460" height="345">
-  <img src="/static/micro_prototype.png" alt="macro prototype" width="460" height="345">
+  <p>After dowloading the csv from CORGIS I followed these steps:</p>
+  <li>In the sheets I combined each column with a high and low estimate into averaged columns.</li>
+  <li>I then deleted all columns other than the averaged, year, country, city, location, latitude, longitude, target description, target type, and group name columns.</li>
+  <li>I downloaded this edited version as a csv, and reformatted the data in python to a json, each attack being a nested dictionary with each data point about that attack being a key element pair.</li>
+  <li>Finally, I downloaded an alpha 2 code to country dictionary (<a href="https://gist.github.com/tadast/8827699">linked here</a>), deleted all columns but alpha 2 and countries in Google Sheets, and created a json linking each country to it's code.</li>
 
   </br>
   </br>
-  <h3>Feedback</h3> 
-  <p>I think for the micro page (is it the map?) it would be helpful to have a summary of each different crime, location, people affected, weapon used, etc. in sentence form using Jinja so we can see the exact numbers for that year.</p>
-  
-  <p>There's a lot of data so it's a little unclear. I think all the settings for the map could be in one place on the map. I think the author should narrow down the settings the user chooses from and pick one central message. The graph's hover function seems like it would be a little different to read, especially if there's so many countries--i suggest the author changes that. Definitely pick one or two big ideas to emphasize. Also add color and make the font bigger. It's a little unclear how the map works also.</p>
-  
-  <p> dropdown instead of slider for year</br>
-    label each country on line graph always instead of only onhover </p>
 
-  <h3>Take-aways</h3> 
-  <p>Focus data for less noise, I'll focus on targets by location. This will also allow for bar graphs by year with one all years average one instead of the noisy line chart. The select bubble on the svg will also now include a dynamically generated sentance summary instead of a bunch of numbers together.</p>
+  <h2>Prototypes</h2> 
+  <img src="macro_prototype.jpg" alt="macro prototype" width="460" height="345"/>
+  <img src="micro_prototype.png" alt="macro prototype" width="460" height="345"/>
+
+  </br>
+  </br>
+
+  <h2>Feedback</h2> 
+  <li>I think for the micro page (is it the map?) it would be helpful to have a summary of each different crime, location, people affected, weapon used, etc. in sentence form using Jinja so we can see the exact numbers for that year.</li>
+  
+  <li>There's a lot of data so it's a little unclear. I think all the settings for the map could be in one place on the map. I think the author should narrow down the settings the user chooses from and pick one central message. The graph's hover function seems like it would be a little different to read, especially if there's so many countries--i suggest the author changes that. Definitely pick one or two big ideas to emphasize. Also add color and make the font bigger. It's a little unclear how the map works also.</li>
+  
+  <li> dropdown instead of slider for year</br> label each country on line graph always instead of only onhover </li>
+
+  </br>
+
+  <h2>Take-aways</h2> 
+  <p>In order to focus data for less noise, I'll focus on targets by location. This will also allow for bar graphs by year with one all years average one instead of the noisy line chart. The select bubble on the svg will also now include a dynamically generated sentance summary instead of a bunch of numbers together.</p>
+
+  <br>
+  <h2>Map design process</h2>
+  <img src="latlongmap.png" alt="macro prototype" width="920" height="690"/>
+  <p>After figuring out latitude and longitude, points showed up in a gridlike pattern on the map, as shown above. The issue was that there was a lot of overlap of dots, so you couldn't tell how many there were supposed to be. This led me to scrapping that idea and focusing instead on displaying bomb targets using color, rather than number of attacks.</p>
+
+  <h2>Individual country infographic design process</h2>
+  <p>I decided that as I was focusing on three options, civilian, security, or political targets, a bar chart would make more sense than a line graph.</p>
 
   <footer>
     {% include 'footer.html' %}
